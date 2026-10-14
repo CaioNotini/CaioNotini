@@ -17,7 +17,7 @@ I’m a Computer Science student at PUC Minas, focused on AI Engineering. I enjo
 - **[Generative AI Scriptwriter](https://github.com/CaioNotini/Generative-AI-Scriptwriter)**: From a long video, extracts the main ideas and generates short scripts for each one, using an LLM trained on scripts from a specific niche.
   `Python` `LLM`
 
-  - **[Chess with Hidden Roles](https://github.com/CaioNotini/Xadrez)**: Chess variant where each piece's role is randomly reassigned every round, except the king. Built with Claude Code as a hands-on project to learn MCP, context management, and prompt engineering.
+- **[Chess with Hidden Roles](https://github.com/CaioNotini/Xadrez)**: Chess variant where each piece's role is randomly reassigned every round, except the king. Built with Claude Code as a hands-on project to learn MCP, context management, and prompt engineering.
   `Claude Code` `MCP` `Prompt Engineering`
 
 ## 🛠️ Technologies
