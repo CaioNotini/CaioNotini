@@ -1,6 +1,6 @@
 # Hi, I'm Caio 👋
 
-Computer Science student at PUC Minas, focused on **AI Engineering**. I enjoy building automations and LLM-powered applications, and I have experience with AWS architecture and security. I have also worked with Big Data analysis using Python, SQL, and GCP.
+I’m a Computer Science student at PUC Minas, focused on AI Engineering. I enjoy building automations and LLM-powered applications, and I have experience with AWS architecture and security. I have also worked on Big Data analysis using Python, SQL, and GCP.
 
 ## 🔭 Currently working on
 - **[Clinic Agent](https://github.com/CaioNotini/Agente-clinicas)**: WhatsApp agent for customer service in healthcare clinics.
