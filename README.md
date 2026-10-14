@@ -3,7 +3,8 @@
 Graduando de Ciência da Computação na PUC Minas, focado em **AI Engineering**. Gosto de construir automações e aplicações com LLMs, e tenho experiência com projetos de arquitetura e segurança usando AWS. Também trabalho já trabalhei com análise de Big Data em Python, SQL e GCP.
 
 ## 🔭 No que estou trabalhando
-- <!-- descreva em uma linha um projeto em andamento, se quiser -->
+- **[Agente para clínicas](https://github.com/CaioNotini/Agente-clinicas)**: agente de WhatsApp para atendimento de clínicas de saúde.
+- **[TCC: GNN para sumarização de vídeos](https://github.com/CaioNotini/tcc-video-summarization-gnn)**: aplicação de redes neurais em grafos (GNN) para gerar resumos automáticos de vídeos.
 
 ## ✅ Projetos concluídos
 
