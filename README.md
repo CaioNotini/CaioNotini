@@ -26,6 +26,7 @@ Graduando de Ciência da Computação na PUC Minas, focado em **AI Engineering**
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=flat&logo=claude&logoColor=white)
 
 ## 📫 Contato
 - LinkedIn: https://www.linkedin.com/in/caio-notini/
